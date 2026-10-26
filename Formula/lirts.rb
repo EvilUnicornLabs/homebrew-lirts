@@ -11,8 +11,8 @@ class Lirts < Formula
 
   desc "Terminal dashboard for ports, processes, Docker containers and services"
   homepage "https://github.com/EvilUnicornLabs/lirts"
-  url "https://github.com/EvilUnicornLabs/lirts/archive/refs/tags/v0.7.1.tar.gz"
-  sha256 "9ff03a9ba3a6239328da283ed3f1dc4df22f8199a8146d71d154258fe2e327b2"
+  url "https://github.com/EvilUnicornLabs/lirts/archive/refs/tags/v0.7.2.tar.gz"
+  sha256 "2138d319dfa7c22f3f31c6310de647d98e6d9009d5224f64c2ceedd400dc6ceb"
   license "Apache-2.0"
   head "https://github.com/EvilUnicornLabs/lirts.git", branch: "master"
 
